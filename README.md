@@ -3,7 +3,7 @@
 Details in English are available at [TMall](./天猫/Tmall.md)
 ### 银行客户流失
 [银行客户流失](./银行客户流失/)为银行客户流失分析的代码及背景和项目介绍
-Details in English are available at [Loss of bank customers](./银行客户流失/Loss of bank customers.md)[Loss_of_bank_customers](./银行客户流失/Loss_of_bank_customers.md)
+Details in English are available at [Loss_of_bank_customers](./银行客户流失/Loss_of_bank_customers.md)
 ### pytorch
 [pytorch](./pytorch/)为pytorch学习代码及笔记
 ### leetcode
