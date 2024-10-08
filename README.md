@@ -3,14 +3,22 @@
 
 Details in English are available at [TMall](./天猫/Tmall.md)
 ### 银行客户流失
-[银行客户流失](./银行客户流失/)为银行客户流失分析的代码及背景和项目介绍
+[Bank_Customer_Churn](./Bank_Customer_Churn/)为银行客户流失分析的代码及背景和项目介绍
 
 Details in English are available at [Loss_of_bank_customers](./银行客户流失/Loss_of_bank_customers.md)
 ### pytorch
+
 [pytorch](./pytorch/)为pytorch学习代码及笔记
 ### leetcode
 [leetcode](./leetcode/)为leetcode刷题代码及思路笔记
+
 ### MovieRecommend
-[MovieRecommmend](./MovieRecommend/)是电影推荐系统代码及记录
+
+[Movie_Recommmend](./Movie_Recommend/)是电影推荐系统代码及记录
 
 Details in English are available at [Movie_Recommend](./MovieRecommend/Movie_Recommend.md)
+
+### Shopping_Trend_Analysis
+
+[Shopping_Trend_Analysis](./Shopping_Trend_Analysis)为客户购物数据分析代码及记录
+
