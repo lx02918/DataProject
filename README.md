@@ -21,8 +21,8 @@
 [Shopping_Trend_Analysis](./Shopping_Trend_Analysis)为客户购物数据分析代码及记录
 
 ### New York Taxi
-[New York Taxi](./New\ York\ Taxi/)为纽约出租车数据分析及相关可视化。
+[New York Taxi](./New%20York%20Taxi/)为纽约出租车数据分析及相关可视化。
 
 ### Social Network
-[Social Network](./Social\ Network/)为社交网络数据分析及建模研究。
+[Social Network](./Social%20Network/)为社交网络数据分析及建模研究。
 
