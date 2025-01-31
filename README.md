@@ -21,9 +21,8 @@
 [Shopping_Trend_Analysis](./Shopping_Trend_Analysis)为客户购物数据分析代码及记录
 
 ### New York Taxi
-
-[New York Taxi](./New York Taxi)为纽约出租车行程时长预测系统代码及记录
+[New York Taxi](./New\ York\ Taxi/)为纽约出租车数据分析及相关可视化。
 
 ### Social Network
+[Social Network](./Social\ Network/)为社交网络数据分析及建模研究。
 
-[Social Network](./Social Network)为黑神话·悟空用户评论分析的社交网络研究代码及记录
